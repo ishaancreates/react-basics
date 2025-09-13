@@ -1,8 +1,8 @@
-import OnChange from './onChange.jsx';
+import ColorPicker from "./colorPicker";
 
 function App() {
   return(
-    <OnChange/>
+    <ColorPicker/>
   )
 }
 
