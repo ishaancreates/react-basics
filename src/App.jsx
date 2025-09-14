@@ -1,8 +1,8 @@
-import ColorPicker from "./colorPicker";
+import Baddie from "./BaddiePicker";
 
 function App() {
   return(
-    <ColorPicker/>
+    <Baddie/>
   )
 }
 
