@@ -1,8 +1,8 @@
-import Baddie from "./BaddiePicker";
+import Musibat from './arrayAdd.jsx'
 
 function App() {
   return(
-    <Baddie/>
+    <Musibat/>
   )
 }
 
